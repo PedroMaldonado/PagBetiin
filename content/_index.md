@@ -12,22 +12,21 @@ class = "hotpink"
 background = "#FF4081"
 +++
 
-# Primer pag
+# Texto Principal
 
-Nice shit
+Otro tipo de texto
 
 <img class="special-img-class" src="/images/cheems.jpg" />
 
 ---
 
-# Segunda pag
+# Texto Principal
 
 <img class="special-img-class" src="/images/cheems.jpg" />
 <img class="special-img-class" src="/images/cheems.jpg" />
 
 ---
 
-# Tercer pag
-
+# Texto Principal
 <img class="special-img-class" src="/images/cheems.jpg" />
 <img class="special-img-class" src="/images/cheems.jpg" />
